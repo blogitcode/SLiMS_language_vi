@@ -4,7 +4,7 @@ Mặc định ngôn ngữ của cms này là tiếng anh, để cài đặt ti�
 
 # Cài đặt tiếng Việt:
 
-– Tải file ngôn ngữ tiếng Việt( bản này chỉ mới dịch được khoảng 65 %, sẽ tiếp tục việt hóa)
+– Tải file ngôn ngữ tiếng Việt
 
 – Sau khi tải về bạn tiến hành giải nén và copy vào thư mục locate (đường dẫn \slims\lib\lang\locale)
 
